@@ -1,1 +1,0 @@
-9999999999{"name": "Random-Word", "version": "1.0.11", "summary": "This is a simple python package to generate random english words", "platform": null, "requires_dist": ["requests", "pytest", "pyyaml"], "requires_python": ">=3", "files": [], "_cache_version": "1.0.0"}

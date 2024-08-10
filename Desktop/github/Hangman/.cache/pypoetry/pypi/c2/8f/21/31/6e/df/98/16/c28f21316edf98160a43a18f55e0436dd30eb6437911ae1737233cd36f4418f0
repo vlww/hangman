@@ -1,1 +1,0 @@
-9999999999{"name": "futures", "version": "3.4.0", "summary": "Backport of the concurrent.futures package from Python 3", "platform": null, "requires_dist": null, "requires_python": ">=2.6, <3", "files": [], "_cache_version": "1.0.0"}

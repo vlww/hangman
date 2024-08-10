@@ -1,1 +1,0 @@
-9999999999{"name": "PyDictionary", "version": "2.0.1", "summary": "A real dictionary module for Python", "platform": "", "requires_dist": ["bs4", "click", "goslate", "requests"], "requires_python": "", "files": [], "_cache_version": "1.0.0"}

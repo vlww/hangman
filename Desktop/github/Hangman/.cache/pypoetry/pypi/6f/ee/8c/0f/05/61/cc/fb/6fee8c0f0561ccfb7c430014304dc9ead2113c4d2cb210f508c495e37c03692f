@@ -1,1 +1,0 @@
-9999999999{"name": "goslate", "version": "1.5.4", "summary": "Goslate: Free Google Translate API", "platform": null, "requires_dist": ["futures"], "requires_python": null, "files": [], "_cache_version": "1.0.0"}
